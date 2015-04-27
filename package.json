@@ -1,0 +1,20 @@
+{
+  "name": "LegisTrax",
+  "title": "LegisTrax Plugin",
+  "version": "0.0.1",
+  "description": "LegisTrax Plugin for Louisiana politics",
+  "author": "iCandyLabs",
+  "homepage": "https://count.ly/marketplace/",
+  "repository" :{ "type" : "git", "url" : "http://github.com/iCandyLabs/legistrax-plugin.git"},
+  "bugs":{ "url" : "http://github.com/iCandyLabs/legistrax-plugin/issues"},
+  "keywords": [
+    "countly",
+    "analytics",
+    "mobile",
+    "plugins",
+	"template"
+  ],
+  "dependencies": {
+  },
+  "private": true
+}
